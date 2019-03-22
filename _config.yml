@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "kicksent.dev"
 title_separator          : "-"
 name                     : "Nick Trierweiler"
-description              : "I am the man."
+description              : "Software Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Nick Trierweiler"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am the man."
+  bio              : "Software Developer"
   location         : "Boulder, Colorado"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: siroccomask@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
