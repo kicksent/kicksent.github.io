@@ -112,9 +112,9 @@ author:
   location         : "Boulder, Colorado"
   email            :
   links:
-    - label: "Email"
+    - label: "siroccomask@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: siroccomask@gmail.com
+      url: mailto:siroccomask@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
