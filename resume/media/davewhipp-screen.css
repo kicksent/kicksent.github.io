@@ -22,6 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	background-color: #eee;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -41,6 +42,7 @@ blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
+	
 }
 table {
 	border-collapse: collapse;
@@ -135,7 +137,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #c23b23;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -153,8 +155,10 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #E18728;
 	/*text-decoration:none*/
+	text-decoration-color: #39f;
+	text-decoration-style: double;
 }
 
 a:hover {
@@ -172,6 +176,7 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
+	
 }
 
 em {

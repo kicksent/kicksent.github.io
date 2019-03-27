@@ -19,20 +19,23 @@ author_profile: true
 
 ## Professional Experience
 
-**[ROBAUTO][1] / Software Engineer (Part Time)**
-`February 2019 - Present  Boulder, Colorado`
-- Prototyping products in [processing ]
+**[ROBAUTO][1] / Software Engineer (Part Time)**  
+`February 2019 - Present`
+**Boulder, Colorado**
+- Prototyping products in [processing][6]
 - Serial buffers, image processing, arduino projects
 
-**[Buffalo Academy][2] / Computer Science Tutor**
-`October 2017 - June 2018, Remote tutor`
+**[Buffalo Academy][2] / Computer Science Tutor**  
+`October 2017 - June 2018`
+**Remote tutor**
 - Tutoring for Algorithms/Computer Graphics Students at CU Boulder
 - Weekly meetings with students to help with homework sets
 - Prepared lessons based on homework sets to help students
 - New students acquired by referral from satisfied students
 
-**[NCAR][3] / Systems Administrator Assistant**
-`June 2015 - Oct 2016,  Mesa Lab Boulder Colorado `
+**[NCAR][3] / Systems Administrator Assistant**  
+`June 2015 - Oct 2016  `
+**Mesa Lab Boulder, Colorado**
 - Customer facing role 75% of the time
 - IT problem solving & customer support using ticket system
 - Worked on larger projects with team using AGILE and JIRA
@@ -55,14 +58,14 @@ author_profile: true
 - Genetic Algorithms applied to Neural Network to learn snake  
 
 **[Rocket League Bot][5] / Python (in progress)**
-- Bot that plays Rocket League by processing gametick packets including physics and other data to determine controller states  
+- Bot that plays Rocket League by processing [gametick][7] packets including physics and other data to determine controller states  
 - 3D coordinate systems, game state manipulation, and rendering  
 
 **Multi-threaded DNS Lookup / C**
 - Multithreaded program that pings websites and determines if they are live using mutexes, a shared resource, and pthreads library  
 
 **Twitch Bot / Javascript**
-- Simple twitch bot using tmi.js module   
+- Simple twitch chat bot using [tmi.js][8] module   
 - Enhances streamer viewer interaction allowing players to join a list to play with streamer with chat commands  
 
 **Movie Tree / C++**
@@ -73,13 +76,17 @@ author_profile: true
 ㅡ
 ## Education
 
-**University of Colorado Boulder / BA Computer Science**  
-**Fall 2014 - Summer 2018,  Boulder, Colorado GPA: 3.28**
+**University of Colorado Boulder / B.A. Computer Science**  
+`Fall 2014 - Summer 2018`
+Boulder, Colorado GPA: 3.28
 
-**Aims Community College / AAS Air Traffic Control Specialist**
+**Aims Community College / A.A.S. Air Traffic Control Specialist**
 
 [4]: <https://github.com/kicksent/SnakePythonP5NeuralNet>
 [5]: <https://github.com/kicksent/my_rlbot>
+[6]: <https://https://processing.org>
+[7]: <https://github.com/RLBot/RLBotPythonExample/wiki/Input-and-Output-Data>
+[8]: <https://docs.tmijs.org/>
 
 <!-- ### Footer
 
