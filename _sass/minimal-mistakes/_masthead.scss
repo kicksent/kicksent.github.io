@@ -1,7 +1,6 @@
 /* ==========================================================================
    MASTHEAD
    ========================================================================== */
-
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
@@ -62,6 +61,7 @@
 
   .site-nav {
     margin-left: 0;
+    
 
     @include breakpoint($small) {
       float: right;
@@ -80,6 +80,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  
+  
 
   &--lg {
     padding-right: 2em;

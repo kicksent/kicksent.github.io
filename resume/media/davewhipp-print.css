@@ -22,6 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	background-color: #eee;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -157,7 +158,7 @@ h3 {
 a {
 	color: #39f;
 	text-decoration:none;
-	text-decoration-color: #39f;
+	/* text-decoration-color: #39f; */
 }
 
 a:hover {

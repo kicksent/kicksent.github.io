@@ -137,7 +137,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #c23b23;
+	color: #0092ca;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -155,9 +155,9 @@ h3 {
 }
 
 a {
-	color: #E18728;
+	color: #222831;
 	/*text-decoration:none*/
-	text-decoration-color: #39f;
+	text-decoration-color: #0092ca;
 	text-decoration-style: double;
 }
 

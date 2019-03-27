@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 
-[***View Resume on Google Doc***](https://docs.google.com/document/d/1AZTEeZ21hnAx9gO6cChY_GnOEEk_Fii5G-uo3Mdi-OE/edit?usp=sharing)
 
 # Nick Trierweiler
 # Software Developer
+[***View Resume on Google Doc***](https://docs.google.com/document/d/1AZTEeZ21hnAx9gO6cChY_GnOEEk_Fii5G-uo3Mdi-OE/edit?usp=sharing)
 
 ## Technical Skills
 **Languages:** Python, iPython, C++  
