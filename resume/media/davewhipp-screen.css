@@ -63,7 +63,7 @@ div .resume code {
   font-size: 90%;
   /*line-height: 1em;*/
   font-family: Monaco, Menlo, monospace, sans-serif;
-  color: #aaa;
+  color: #858585;
 }
 div .resume p code {
   position: absolute;
@@ -111,7 +111,7 @@ div .resume h1 + p {
 }
 div .resume h2 {
   font-size: .8em;
-  color: #0092ca;
+  color: #0d89ee;
   margin-top: 1em;
   position: relative;
   top: 1.4em;
@@ -129,17 +129,17 @@ div .resume h3 {
 div .resume a {
   color: #222831;
   /*text-decoration:none*/
-  text-decoration-color: #0092ca;
+  text-decoration-color: #ff9100;
   text-decoration-style: double;
 }
 div .resume a:hover {
-  color: #39f;
+  color: #0d89ee;
 }
 div .resume #webaddress {
   margin-top: 1em;
   position: relative;
   left: 25%;
-  color: #bc412b;
+  color: #ff9100;
   font-family: Monaco, Menlo, monospace, sans-serif;
   font-size: 100%;
 }

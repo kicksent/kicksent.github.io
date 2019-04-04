@@ -3,6 +3,8 @@ layout: cv
 author_profile: true
 ---
 
+**[Live Resume in Google Docs][9]**
+
 # Nick Trierweiler
 # Software Developer
 
@@ -83,6 +85,7 @@ Boulder, Colorado GPA: 3.28
 [6]: <https://https://processing.org>
 [7]: <https://github.com/RLBot/RLBotPythonExample/wiki/Input-and-Output-Data>
 [8]: <https://docs.tmijs.org/>
+[9]: <https://docs.google.com/document/d/1AZTEeZ21hnAx9gO6cChY_GnOEEk_Fii5G-uo3Mdi-OE/edit?usp=sharing>
 
 <!-- ### Footer
 
