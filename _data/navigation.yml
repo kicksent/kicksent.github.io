@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
-    url: /projects/
   - title: "CV/Resume"
     url: /resume/
+  - title: "Projects"
+    url: /projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

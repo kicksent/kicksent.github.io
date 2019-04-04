@@ -2,7 +2,7 @@
  v2.0 | 20110126
  License: none (public domain)
  */
-div .resume {
+/* div .resume { */
   /* margin: 0; */
   /* padding: 0; */
   /* border: 0; */
@@ -15,7 +15,7 @@ div .resume {
    position: relative;
    left: -0.25em;
    }*/
-}
+/* } */
 div .resume html, div .resume body, div .resume div, div .resume span, div .resume applet, div .resume object, div .resume iframe, div .resume h1, div .resume h2, div .resume h3, div .resume h4, div .resume h5, div .resume h6, div .resume p, div .resume blockquote, div .resume pre, div .resume abbr, div .resume acronym, div .resume address, div .resume big, div .resume cite, div .resume code, div .resume del, div .resume dfn, div .resume em, div .resume img, div .resume ins, div .resume kbd, div .resume q, div .resume s, div .resume samp, div .resume small, div .resume strike, div .resume strong, div .resume sub, div .resume sup, div .resume tt, div .resume var, div .resume b, div .resume u, div .resume i, div .resume center, div .resume dl, div .resume dt, div .resume dd, div .resume ol, div .resume ul, div .resume li, div .resume fieldset, div .resume form, div .resume label, div .resume legend, div .resume table, div .resume caption, div .resume tbody, div .resume tfoot, div .resume thead, div .resume tr, div .resume th, div .resume td, div .resume article, div .resume aside, div .resume canvas, div .resume details, div .resume embed, div .resume figure, div .resume figcaption, div .resume footer, div .resume header, div .resume hgroup, div .resume menu, div .resume nav, div .resume output, div .resume ruby, div .resume section, div .resume summary, div .resume time, div .resume mark, div .resume audio, div .resume video {
   font: inherit;
   /* vertical-align: baseline; */
