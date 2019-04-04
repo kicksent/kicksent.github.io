@@ -1,10 +1,7 @@
 ---
 layout: cv
-author_profile: false
-
+author_profile: true
 ---
-
-
 
 # Nick Trierweiler
 # Software Developer
@@ -90,5 +87,7 @@ Boulder, Colorado GPA: 3.28
 <!-- ### Footer
 
 Last updated: March 2019 -->
+
+
 
 ------------------------------------
