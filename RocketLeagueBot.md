@@ -19,13 +19,11 @@ gallery2:
   
 ---
 
-### My Rocket League Bot
-
-
+## My Rocket League Bot
 
 {% include gallery caption="[Check out my bot on github. ](https://github.com/kicksent/my_rlbot)" class="full" %}
 
-## Motivation for this project
+### Motivation for this project
 
 In recent years I have spent much of my free time playing Rocket League. I have found it to be a game of never ending complexity and skill which has kept me involved for a number of years. I stumbled upon [this][1] reddit post a year ago and began my journey. Today, there is a rich rocket league bot creating community with their own [subreddit][2] and [discord channel][3]. 
 
@@ -36,7 +34,7 @@ Since I discovered Rocket League Bots many improvements have been made to make s
 **<span style="color:purple"> Check out this slick ball bounce prediction line in purple.</span>**
 
 
-## Why make Rocket League Bots?
+### Why make Rocket League Bots?
 
 - build a personal project to put on your resume
 - learn or solidify Linear Algebra concepts

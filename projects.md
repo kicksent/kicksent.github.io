@@ -14,6 +14,13 @@ feature_row:
     alt: "Vermin"
     title: "Unity Project"
     excerpt: "Unity Game in development by Nick Trierweiler and Michael Pelser"
+  - image_path: /assets/img/french.jpg 
+    alt: "Twitch Bot"
+    title: Twitch Bot
+    excerpt: "Twitch Bot"
+    url: /TwitchBot/
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
     #url: /Vermin/
     #btn_label: "Read More"
     #btn_class: "btn--inverse"
