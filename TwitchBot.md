@@ -10,14 +10,22 @@ gallery:
     title: "RLBOT"
 
 gallery2:
+  - url: /assets/img/twitchtype.gif 
+    image_path: /assets/img/twitchtype.gif
+    alt: "rocket league bot"
+    title: "RLBOT"
+
+gallery3:
+    # https://imgur.com/a/ISpO9B0
   - url: /assets/img/joke.jpg 
-    image_path: /assets/img/joke.jpg 
+    image_path: /assets/img/joke.jpg
     alt: "rocket league bot"
     title: "RLBOT"
   - url: /assets/img/list.jpg 
     image_path: /assets/img/list.jpg 
     alt: "rocket league bot"
     title: "RLBOT"  
+
 
 
   
@@ -27,13 +35,14 @@ gallery2:
 
 {% include gallery caption="Frenchtutor_ taking a stock from Nairo on his best smash 4 character Zero Suit Samus." class="full" %}  
 
-This project was made for **<a style="color: purple; text-decoration:none" href ="https://twitch.tv/frenchtutor_"> frenchtutor_</a>** who is a growing streamer and top tier link player. 
+This project was made for **<a style="color: purple; text-decoration:none" href ="https://twitch.tv/frenchtutor_"> frenchtutor_</a>** who is a growing streamer and top tier link player. To make your own twitch bot check out [tmi.js][1]
 
 ### How to send commands:
 1. Visit **<a style="color: purple; text-decoration:none" href ="https://twitch.tv/frenchtutor_"> frenchtutor_'s channel </a>**
 2. Type a command in the chat! (see below for commands)
 
 {% include gallery id="gallery2" caption="Example responses from frenchtoastbot." %}
+
 
 ### Current list of commands:  
 ###### Commands are not case sensitive ex: !Arena or !arena are equivalent
@@ -81,6 +90,8 @@ This project was made for **<a style="color: purple; text-decoration:none" href 
     * `!roll`
 
 
-[1]: <https://twitch.tv/frenchtutor_>
+{% include gallery id="gallery3" class="half" caption="Example responses from frenchtoastbot." %}
+
+[1]: <https://docs.tmijs.org/>
 
 [Old Commands List from Pastebin](https://pastebin.com/dbZbbP9m)
