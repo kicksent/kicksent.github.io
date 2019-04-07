@@ -48,7 +48,7 @@ This project was made for **<a style="color: purple; text-decoration:none" href 
 ###### Commands are not case sensitive ex: !Arena or !arena are equivalent
  
 * Basic Commands:
-    * `!commands` - link to pastebin commands
+    * `!commands` - link to here
     * `!arenacommands` - receive PM with arena commands
     * `!discord` - get a link to frenchtutor_ discord
     * `!job` 
