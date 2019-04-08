@@ -16,7 +16,6 @@ gallery2:
     title: "RLBOT"
 
 gallery3:
-    # https://imgur.com/a/ISpO9B0
   - url: /assets/img/joke.jpg 
     image_path: /assets/img/joke.jpg
     alt: "rocket league bot"

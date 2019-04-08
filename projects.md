@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/img/french.jpg 
     alt: "Twitch Bot"
     title: Twitch Bot
-    excerpt: "Node.js Javascript tmi.js)"
+    excerpt: "Node.js Javascript tmi.js"
     url: /TwitchBot/
     btn_label: "Read More"
     btn_class: "btn--inverse"
