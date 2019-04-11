@@ -9,6 +9,7 @@ gallery:
     alt: "placeholder image 1"
     title: "BTC"
 ---
+___
 
 ### The Basics of Cryptocurrency Arbitrage
 

@@ -25,10 +25,8 @@ gallery3:
     alt: "rocket league bot"
     title: "RLBOT"  
 
-
-
-  
 ---
+___
 
 # <a style="color: purple" href ="https://twitch.tv/frenchtutor_"> My Twitch Bot - AKA frenchtoastbot </a> 
 
