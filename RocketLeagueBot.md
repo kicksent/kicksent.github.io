@@ -3,7 +3,7 @@ layout: posts
 author_profile: true
 
 gallery:
-  - url: /assets/img/octane2k.jpg
+  - url: https://github.com/kicksent/my_rlbot
     image_path: /assets/img/octane2k.jpg
     alt: "rocket league bot"
     title: "RLBOT"
@@ -21,7 +21,7 @@ gallery2:
 
 ## My Rocket League Bot
 
-{% include gallery caption="[Check out my bot on github. ](https://github.com/kicksent/my_rlbot)" class="full" %}
+{% include gallery caption="[Check out my bot on github.](https://github.com/kicksent/my_rlbot)" class="full" %}
 
 ### Motivation for this project
 
