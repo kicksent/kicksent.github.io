@@ -2,7 +2,6 @@
 layout: posts
 author_profile: true
 
-
 gallery:
   - url: /assets/img/nairo.jpg 
     image_path: /assets/img/nairo.jpg
