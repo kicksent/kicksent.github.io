@@ -4,7 +4,7 @@ title: Risk of Rain 2 Mods
 
 #image: /assets/img/cmcBTC2.jpg 
 
-gallery: 
+gallery2: 
   - url: https://store.steampowered.com/app/632360/Risk_of_Rain_2/
     image_path: https://steamcdn-a.akamaihd.net/steam/apps/632360/ss_d93451e8534c512fcf15e1d8c7a02e2277807aa7.600x338.jpg?t=1554475761
     alt: "ror2 steam"
@@ -42,7 +42,9 @@ gallery6:
 
 
 ---
-{% include gallery caption="[Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) is a multiplayer roguelike 3D sequel to Risk of Rain." %}
+## Now on Steam:
+
+{% include gallery id="gallery2" caption="[Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) is a multiplayer roguelike 3D sequel to Risk of Rain." %}
 
 <!-- [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) is a multiplayer roguelike 3D sequel to Risk of Rain. -->
 ___
