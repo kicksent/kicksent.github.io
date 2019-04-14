@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: Cryptocurrency Arbitrage
+title: The Basics of Cryptocurrency Arbitrage
 
 #image: /assets/img/cmcBTC2.jpg 
-gallery:
+gallery2:
   - url: /assets/img/cmcBTC2.jpg 
     image_path: /assets/img/cmcBTC2.jpg 
     alt: "placeholder image 1"
@@ -11,14 +11,14 @@ gallery:
 ---
 ___
 
-### The Basics of Cryptocurrency Arbitrage
-
-{% include gallery caption="The gradual fall of bitcoin value from January 2018 to March 2019. [coinmarketcap.com](https://coinmarketcap.com/)" %}
+# The Basics of Cryptocurrency Arbitrage
 
 
 ## Motivation for this post
 
 This post is purely for fun and for sharing some ideas I have had about this space. Many have given up on cryptocurrency since the end of 2018 when the price of BTC began falling from its peak of nearly $20,000. Today BTC is down to $4,060, trade volumes have dropped, and the subreddits have become stale and inactive. Perhaps one day the interest in this subject will return and all of this will have reversed. In that case, it can be useful to understand how arbitrage works. I have written a cryptocurrency bot in python to trade for profit and thought I would share what I know. 
+
+{% include gallery id="gallery2" caption="The gradual fall of bitcoin value from January 2018 to March 2019. [coinmarketcap.com](https://coinmarketcap.com/)" %}
 
 
 ## What is arbitrage?

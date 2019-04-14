@@ -44,7 +44,9 @@ gallery6:
 ---
 ## Now on Steam:
 
-{% include gallery id="gallery2" caption="[Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) is a multiplayer roguelike 3D sequel to Risk of Rain." %}
+[Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) is a multiplayer roguelike 3D sequel to Risk of Rain.
+
+{% include gallery id="gallery2" caption="" %}
 
 <!-- [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) is a multiplayer roguelike 3D sequel to Risk of Rain. -->
 ___
