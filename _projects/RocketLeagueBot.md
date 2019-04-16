@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: projects
 author_profile: true
 
 gallery:
@@ -18,6 +18,7 @@ gallery2:
 
   
 ---
+
 
 ## My Rocket League Bot
 

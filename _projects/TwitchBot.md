@@ -1,35 +1,37 @@
 ---
-layout: posts
+layout: projects
 author_profile: true
 
 gallery:
   - url: /assets/img/nairo.jpg 
     image_path: /assets/img/nairo.jpg
-    alt: "rocket league bot"
-    title: "RLBOT"
+    alt: "twitch bot"
+    title: "TWITCH BOT"
 
 gallery2:
   - url: /assets/img/twitchtype.gif 
     image_path: /assets/img/twitchtype.gif
-    alt: "rocket league bot"
-    title: "RLBOT"
+    alt: "twitch bot"
+    title: "TWITCH BOT"
 
 gallery3:
   - url: /assets/img/joke.jpg 
     image_path: /assets/img/joke.jpg
     alt: "rocket league bot"
-    title: "RLBOT"
+    alt: "twitch bot"
   - url: /assets/img/list.jpg 
     image_path: /assets/img/list.jpg 
-    alt: "rocket league bot"
-    title: "RLBOT"  
+    alt: "twitch bot"
+    title: "TWITCH BOT"  
 
 ---
-___
 
-# <a style="color: purple" href ="https://twitch.tv/frenchtutor_"> My Twitch Bot - AKA frenchtoastbot </a> 
+
+
 
 {% include gallery caption="Frenchtutor_ taking a stock from Nairo on his best smash 4 character Zero Suit Samus." class="full" %}  
+
+# <a style="color: purple" href ="https://twitch.tv/frenchtutor_"> My Twitch Bot - AKA frenchtoastbot </a>   
 
 This project was made for **<a style="color: purple; text-decoration:none" href ="https://twitch.tv/frenchtutor_"> frenchtutor_</a>** who is a growing streamer and top tier link player. To make your own twitch bot check out [tmi.js][1]
 

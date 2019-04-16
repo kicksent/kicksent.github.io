@@ -164,6 +164,9 @@ collections:
   pages:
     output: true
     permalink: /:categories/:title/
+  projects:
+    output: true
+    permalink: /:categories/:title/
   # ror2mods:
   #   output: true
   #   permalink: /:categories/:title/
