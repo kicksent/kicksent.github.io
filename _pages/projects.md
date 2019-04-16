@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/img/french.jpg 
     alt: "Twitch Bot"
     title: Twitch Bot
-    excerpt: "Node.js Javascript tmi.js"
+    excerpt: "Node.js, Javascript, tmi.js"
     url: /TwitchBot/
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -21,6 +21,10 @@ feature_row:
     alt: "Vermin"
     title: "Vermin"
     excerpt: "Unity C#"
+  - image_path: https://cdn.pixabay.com/photo/2017/01/25/12/31/bitcoin-2007769__340.jpg
+    alt: "Cryptocurrency Bot"
+    title: "Cryptocurrency Bot"
+    excerpt: "Python, Various APIs, Requests, JSON"
   
     #url: /Vermin/
     #btn_label: "Read More"
