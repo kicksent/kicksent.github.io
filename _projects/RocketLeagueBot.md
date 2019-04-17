@@ -1,6 +1,7 @@
 ---
 layout: projects
 author_profile: true
+categories: projects
 
 gallery:
   - url: https://github.com/kicksent/my_rlbot

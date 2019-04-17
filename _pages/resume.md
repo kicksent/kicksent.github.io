@@ -32,6 +32,7 @@ author_profile: true
 `February 2019 - Present`
 **Boulder, Colorado**
 - Prototyping products in [processing][6]
+- WordPress site optimization
 - Serial buffers, image processing, arduino projects
 - Presenting product to investors
 - Sendgrid API automation

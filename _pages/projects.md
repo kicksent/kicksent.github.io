@@ -7,14 +7,14 @@ feature_row:
     alt: "Twitch Bot"
     title: Twitch Bot
     excerpt: "Node.js, Javascript, tmi.js"
-    url: /TwitchBot/
+    url: /projects/TwitchBot/
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/img/octane2k.jpg
     alt: "Rocket League Bot"
     title: Rocket League Bot
     excerpt: "Python"
-    url: /RocketLeagueBot/
+    url: /projects/RocketLeagueBot/
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/gif/mouseRunAnimation1.gif
@@ -47,7 +47,7 @@ feature_row:
 #     title: "octane"
 ---
 
-Personal Projects
+## A short list of Personal Projects:
 
 {% include feature_row %}
 

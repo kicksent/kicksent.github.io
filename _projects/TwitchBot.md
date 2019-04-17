@@ -1,6 +1,7 @@
 ---
 layout: projects
 author_profile: true
+categories: projects
 
 gallery:
   - url: /assets/img/nairo.jpg 
@@ -27,11 +28,9 @@ gallery3:
 ---
 
 
-
+# <a style="color: purple" href ="https://twitch.tv/frenchtutor_"> My Twitch Bot - AKA frenchtoastbot </a>  
 
 {% include gallery caption="Frenchtutor_ taking a stock from Nairo on his best smash 4 character Zero Suit Samus." class="full" %}  
-
-# <a style="color: purple" href ="https://twitch.tv/frenchtutor_"> My Twitch Bot - AKA frenchtoastbot </a>   
 
 This project was made for **<a style="color: purple; text-decoration:none" href ="https://twitch.tv/frenchtutor_"> frenchtutor_</a>** who is a growing streamer and top tier link player. To make your own twitch bot check out [tmi.js][1]
 
