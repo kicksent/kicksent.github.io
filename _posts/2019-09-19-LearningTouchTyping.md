@@ -1,11 +1,15 @@
 
+  ---
+layout: posts
+title: How I learned to type properly after 15 years of habit
+
+
+---
+
+# Touch Typing 
   
 
-# How I learned to type properly after 15 years of habit
-
-  
-
-For those of you who do not know. Earlier this year I decided to relearn how to type. For years I had lazily never learned how to type in a way which utilized all of my fingers. I began this journey a few weeks before new years. Here is what I did:
+For those of you who do not know. Earlier this year I decided to relearn how to type. For years I had lazily never learned how to type in a way which utilized all of my fingers. I began this journey in 2019 a few weeks before the new year. Here is what I did to achieve my goal: 
   
 
 **[Typing Club](https://www.typingclub.com/)**
