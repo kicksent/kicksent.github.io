@@ -1,3 +1,4 @@
 source "https://rubygems.org"
-gemspec name: 'classifier-reborn'
+gem 'classifier-reborn'
+gem 'jekyll-sass-converter'
 gemspec
