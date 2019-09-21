@@ -1,9 +1,6 @@
-
-  ---
+---
 layout: posts
 title: How I learned to type properly after 15 years of habit
-
-
 ---
 
 # Touch Typing 
