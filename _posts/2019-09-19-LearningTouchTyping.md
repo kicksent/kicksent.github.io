@@ -13,7 +13,7 @@ For those of you who do not know. Earlier this year I decided to relearn how to 
 
   
 
-This site has nice clicky sound when you type which I quite enjoy. In addition, it had the progression built into it that I was looking for to retrain my brain how to type from scratch. It also has some nice motivational content that helps you to use correct form, keep with your training, and learn about typing without looking at your keyboard. They refer to this as touch typing. The site asks for payment but you can continue on for a very long time and I was never forced to pay for the lessons before moving on to a new site. I highly recommend this as a starting place for new typists.
+This site has nice clicky sound effect when typing for correct and incorrect keys. In addition, it had the progression built into it that I was looking for to retrain my brain how to type from scratch. It also has some nice motivational content that helps you to use correct form, keep with your training, and learn about typing without looking at your keyboard. They refer to this as touch typing. The site asks for payment but you can continue on for a very long time and I was never forced to pay for the lessons before moving on to a new site. I highly recommend this as a starting place for new typists.
 
 ### Early training:
 
