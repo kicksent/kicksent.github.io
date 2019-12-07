@@ -44,7 +44,6 @@ In my case, I have a hard time going to bed when it's time, so I have set a habi
   - Now I have set myself up for success to wake up at 5 AM since I will likely have gotten 7-7.5 hours of sleep at that point. 
 
 1. **Useful Habit:** wake up at 5 AM everyday
-
   - Once in bed, I can read until 10 if I choose to. A friend suggested this as a way to wind down for the night. Thanks Michael.
 
 
