@@ -14,28 +14,27 @@ author_profile: true
 **Languages:** Python, iPython, C++  
 **Operating Systems:** Linux, Windows, OSX  
 **Testing Frameworks:** [Pytest][19]  
-**Coursework:** Data structures, Algorithms, Data Science, Operating Systems, Principles of Programming Languages, OpenGL(C), GIS, Computer Graphics, Data Science, Databases(SQL)  
-**APIs used:** [twitch API][11], [icanhazdadjoke API][12], [Bitgrail API][13], [Poloniex API][14], [CoinMarketCap API][15], [Coinbase API][16], [RIOT API][17], [Openweathermap API][18]
-
-[11]: https://dev.twitch.tv/docs
-[12]: https://icanhazdadjoke.com/api
-[13]: https://bitgrail.com/api-documentation
-[14]: https://docs.poloniex.com/#introduction
-[15]: https://coinmarketcap.com/api/
-[16]: https://developers.coinbase.com/api/v2
-[17]: https://developer.riotgames.com/api-methods/
-[18]: https://openweathermap.org/api
-[19]: https://docs.pytest.org/en/latest/
+**Coursework:** Data structures, Algorithms, Data Science, Operating Systems, Principles of Programming Languages, OpenGL(C), GIS, Computer Graphics, Databases(SQL)
 
 ## Professional Experience
 
-**CGI / Devops SWE**
-`May - Present`
+**CGI / Devops & Software Engineer (Full Time)**
+`April 2019 - Present`
 **Greenwood Village, Colorado**
+Languages: C#, JS, Python, SQL
+
+- Managed CI/CD pipeline for code deployment to various environments
+- ASP.NET MVC Web Application Development
+- Automated daily tasks
+
+**HeyTutor & CodeMentor / Mentor & Tutor (Just for fun)**
+`une 2019 - Present`
+Languages: Python, JS, SQL
 
 **[ROBAUTO][1] / Software Engineer (Part Time)**  
 `February 2019 - April 2019`
 **Boulder, Colorado**
+Languages: JS, Python, Processing
 
 - Prototyping products in [processing][6]
 - WordPress site optimization
@@ -56,7 +55,7 @@ author_profile: true
 `June 2015 - Oct 2016`
 **Mesa Lab Boulder, Colorado**
 
-- Customer facing role 75% of the time
+- Customer facing
 - IT problem solving & customer support using ticket system
 - Worked on larger projects with team using AGILE and JIRA
 - DNS cleanup project involving scripting

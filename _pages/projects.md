@@ -3,6 +3,12 @@ layout: splash
 title: Projects
 
 feature_row:
+  - image_path: /assets/gif/mouseIdleSit1.gif
+    alt: "Vermin"
+    title: "Vermin"
+    excerpt: "Unity C#"
+    url: /projects/Vermin/
+    btn_class: "btn--inverse"
   - image_path: /assets/img/french.jpg 
     alt: "Twitch Bot"
     title: Twitch Bot
@@ -17,10 +23,7 @@ feature_row:
     url: /projects/RocketLeagueBot/
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/gif/mouseRunAnimation1.gif
-    alt: "Vermin"
-    title: "Vermin"
-    excerpt: "Unity C#"
+
   - image_path: https://cdn.pixabay.com/photo/2017/01/25/12/31/bitcoin-2007769__340.jpg
     alt: "Cryptocurrency Bot"
     title: "Cryptocurrency Bot"
@@ -49,5 +52,5 @@ feature_row:
 
 ## A short list of Personal Projects:
 
-{% include feature_row %}
+{% include feature_row type="center" %}
 

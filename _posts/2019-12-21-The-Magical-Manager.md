@@ -1,3 +1,8 @@
+---
+layout: posts
+title: The Magical Manager
+---
+
 # [The Magical Manager](https://themagicalmanager.com)
 
 ## So, who is this guy?
