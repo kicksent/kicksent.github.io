@@ -64,10 +64,16 @@ Languages: JS, Python, Processing
 
 ## Projects
 
+**Twitch Idle Game / Unity and C# (in progress)**
+Multiplayer game using websockets Client(unity) Server(python)
+
+**Vermin / Unity and C# (in progress)**
+[See here](https://kicksent.dev/projects/vermin/)
+
 **Automated Cryptocurrency Arbitrage Bot / Python**
 
 - Developed a bot for arbitrage exchanges using APIs
-- 200 + trades yielded between 2-8% profit margins
+- 200+ trades yielded between 2-8% profit margins
 
 **[Neural Network that plays Snake game][4] / Python**
 
@@ -96,7 +102,6 @@ Languages: JS, Python, Processing
 
 - using data from Shakespeare's 154 sonnets construct a new sonnet using markov chains and NLTK
 
-**Vermin / Unity and C# (in progress)**
 ㅡ
 
 ## Education
