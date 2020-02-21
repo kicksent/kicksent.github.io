@@ -11,7 +11,7 @@ author_profile: true
 
 ## Technical Skills
 
-**Languages:** Python, iPython, C++  
+**Languages:** Python, C#, JS, C++
 **Operating Systems:** Linux, Windows, OSX  
 **Testing Frameworks:** [Pytest][19]  
 **Coursework:** Data structures, Algorithms, Data Science, Operating Systems, Principles of Programming Languages, OpenGL(C), GIS, Computer Graphics, Databases(SQL)
@@ -23,13 +23,14 @@ author_profile: true
 **Greenwood Village, Colorado**
 Languages: C#, JS, Python, SQL
 
-- Managed CI/CD pipeline for code deployment to various environments
+- Managed CI/CD pipeline
+- Site availability
 - ASP.NET MVC Web Application Development
 - Automated daily tasks
 
 **HeyTutor & CodeMentor / Mentor & Tutor (Just for fun)**
 `une 2019 - Present`
-Languages: Python, JS, SQL
+Languages: Python, JS, SQL, CSS, HTML
 
 **[ROBAUTO][1] / Software Engineer (Part Time)**  
 `February 2019 - April 2019`
@@ -60,11 +61,6 @@ Languages: JS, Python, Processing
 - Worked on larger projects with team using AGILE and JIRA
 - DNS cleanup project involving scripting
 - Database queries
-
-[1]: https://www.robauto.co/
-[2]: https://www.buffacademy.com/
-[3]: https://ncar.ucar.edu/
-[100]: https://www.cgi.com/en
 
 ## Projects
 
@@ -111,6 +107,9 @@ Boulder, Colorado GPA: 3.28
 
 **Aims Community College / A.A.S. Air Traffic Control Specialist**
 
+[1]: https://www.robauto.co/
+[2]: https://www.buffacademy.com/
+[3]: https://ncar.ucar.edu/
 [4]: https://github.com/kicksent/SnakePythonP5NeuralNet
 [5]: https://kicksent.dev/rocketleaguebot/
 [6]: https://https://processing.org
@@ -118,6 +117,8 @@ Boulder, Colorado GPA: 3.28
 [8]: https://docs.tmijs.org/
 [9]: https://docs.google.com/document/d/1AZTEeZ21hnAx9gO6cChY_GnOEEk_Fii5G-uo3Mdi-OE/edit?usp=sharing
 [10]: https://kicksent.dev/twitchbot/
+[100]: https://www.cgi.com/en
+
 
 <!-- ### Footer
 
