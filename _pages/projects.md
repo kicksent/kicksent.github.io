@@ -24,6 +24,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
+  - image_path: /assets/img/octane2k.jpg
+    alt: "Trie implementation using python"
+    title: Trie implementation using python
+    excerpt: "Python"
+    url: /projects/triePython/
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: https://cdn.pixabay.com/photo/2017/01/25/12/31/bitcoin-2007769__340.jpg
     alt: "Cryptocurrency Bot"
     title: "Cryptocurrency Bot"
