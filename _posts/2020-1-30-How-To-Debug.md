@@ -1,3 +1,8 @@
+---
+layout: posts
+title: How to Debug
+---
+
 # How to Debug:
 
 I have been listening to an audiobook [The Complete Software Developers Career Guide](https://amzn.to/3c8aAzi) on my way to work. I highly recommend this book to developers that have long commutes or do daily low intensity cardio and want something valuable to listen to. This book has already reshaped many of my preconceived notions about several aspects of development and I'm only about half way through it.

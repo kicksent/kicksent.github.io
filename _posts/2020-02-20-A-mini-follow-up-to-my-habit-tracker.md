@@ -1,3 +1,8 @@
+---
+layout: posts
+title: A mini follow up to my habit tracker
+---
+
 # Habit tracking part 2:
 
 ## Reiterating my goals for my habit tracker
