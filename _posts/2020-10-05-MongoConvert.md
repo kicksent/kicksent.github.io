@@ -117,7 +117,8 @@ const MenuItem = new Schema(
 ## Exporting from mongo, and converting using python
 Export the models to json format using mongo, import them as a module, and then iterate the objects and generate a new json object which we can insert into our new restaurant model. 
 
-```import json
+```
+import json
 from menu_items import *
 from menu_sections import *
 db_dict = {}
