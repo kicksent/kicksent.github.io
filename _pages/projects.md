@@ -3,6 +3,20 @@ layout: splash
 title: Projects
 
 feature_row:
+  - image_path: /assets/img/octane2k-0,25x.jpg
+    alt: "Vermin"
+    title: "Vermin"
+    excerpt: "React & Google Firebase"
+    url: /projects/LifeScriber/
+    btn_class: "btn--inverse"
+
+    - image_path: /assets/img/octane2kblack.jpg
+    alt: "Simple Food Finder"
+    title: "Simple Food Finder"
+    excerpt: "React (MERN stack)"
+    url: /projects/SimpleFoodFinder/
+    btn_class: "btn--inverse"
+
   - image_path: /assets/gif/mouseIdleSit1.gif
     alt: "Vermin"
     title: "Vermin"
@@ -61,4 +75,3 @@ feature_row:
 ## A short list of Personal Projects:
 
 {% include feature_row type="center" %}
-
