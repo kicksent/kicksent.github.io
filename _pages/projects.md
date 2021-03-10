@@ -4,8 +4,8 @@ title: Projects
 
 feature_row:
   - image_path: /assets/img/octane2k-0,25x.jpg
-    alt: "Vermin"
-    title: "Vermin"
+    alt: "Life Scriber"
+    title: "Life Scriber"
     excerpt: "React & Google Firebase"
     url: /projects/LifeScriber/
     btn_class: "btn--inverse"
