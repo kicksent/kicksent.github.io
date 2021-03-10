@@ -12,7 +12,7 @@ gallery:
 
 ## Simple Food Finder App
 
-[Simplefoodfinder.com][1]
+{% include gallery caption="["See it here"](https://simplefoodfinder.com)" class="full" %}
 
 ### Motivation for this project
 
@@ -22,5 +22,7 @@ Users can elect to see only options which are vegan, or gluten free with a singl
 
 They can also search for specific words in the menu items to search for what they want (chicken) OR
 Filter out what they don't want (ex: onions)
+
+[Simplefoodfinder.com][1]
 
 [1]: https://simplefoodfinder.com/
