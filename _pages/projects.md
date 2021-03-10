@@ -10,7 +10,7 @@ feature_row:
     url: /projects/LifeScriber/
     btn_class: "btn--inverse"
 
-    - image_path: /assets/img/octane2kblack.jpg
+  - image_path: /assets/img/octane2kblack.jpg
     alt: "Simple Food Finder"
     title: "Simple Food Finder"
     excerpt: "React (MERN stack)"
@@ -23,7 +23,7 @@ feature_row:
     excerpt: "Unity C#"
     url: /projects/Vermin/
     btn_class: "btn--inverse"
-  - image_path: /assets/img/french.jpg 
+  - image_path: /assets/img/french.jpg
     alt: "Twitch Bot"
     title: Twitch Bot
     excerpt: "Node.js, Javascript, tmi.js"
@@ -50,24 +50,21 @@ feature_row:
     alt: "Cryptocurrency Bot"
     title: "Cryptocurrency Bot"
     excerpt: "Python, Various APIs, Requests, JSON"
-  
+
     #url: /Vermin/
     #btn_label: "Read More"
     #btn_class: "btn--inverse"
-
-  
-
 # gallery:
 #   - url: /RocketLeagueBot/
-#     image_path: /assets/img/octane2k.jpg  
+#     image_path: /assets/img/octane2k.jpg
 #     alt: ""
 #     title: "octane"
 #   - url: /assets/gif/mouseRunAnimation1.gif
-#     image_path: /assets/gif/mouseRunAnimation1.gif  
+#     image_path: /assets/gif/mouseRunAnimation1.gif
 #     alt: ""
 #     title: "Vermin"
-#   - url: 
-#     image_path: /assets/img/octane2kblack.jpg  
+#   - url:
+#     image_path: /assets/img/octane2kblack.jpg
 #     alt: ""
 #     title: "octane"
 ---
