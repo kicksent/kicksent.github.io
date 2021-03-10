@@ -3,14 +3,14 @@ layout: splash
 title: Projects
 
 feature_row:
-  - image_path: /assets/img/octane2k-0,25x.jpg
+  - image_path: /assets/img/lifescriber.png
     alt: "Life Scriber"
     title: "Life Scriber"
     excerpt: "React & Google Firebase"
     url: /projects/LifeScriber/
     btn_class: "btn--inverse"
 
-  - image_path: /assets/img/octane2kblack.jpg
+  - image_path: /assets/img/simplefoodfinder.png
     alt: "Simple Food Finder"
     title: "Simple Food Finder"
     excerpt: "React (MERN stack)"
