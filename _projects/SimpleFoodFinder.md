@@ -12,7 +12,7 @@ gallery:
 
 ## Simple Food Finder App
 
-{% include gallery caption="["See it here"](https://simplefoodfinder.com)" class="full" %}
+{% include gallery caption="[See it here](https://simplefoodfinder.com)" class="full" %}
 
 ### Motivation for this project
 

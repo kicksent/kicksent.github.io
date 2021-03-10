@@ -12,7 +12,7 @@ gallery:
 
 ## Journal Swap App (lifescriber.com)
 
-{% include gallery caption="["See it here"](https://lifescriber.com)" class="full" %}
+{% include gallery caption="[See it here](https://lifescriber.com)" class="full" %}
 
 ### Motivation for this project
 
