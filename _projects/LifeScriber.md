@@ -4,10 +4,10 @@ author_profile: true
 categories: projects
 
 gallery:
-  - url: https://github.com/kicksent/my_rlbot
-    image_path: /assets/img/octane2k.jpg
-    alt: "rocket league bot"
-    title: "RLBOT"
+  - url: https://lifescriber.com
+    image_path: /assets/img/lifescriber.png
+    alt: "lifescriber journal app"
+    title: "lifescriber.com"
 ---
 
 ## Journal Swap App (lifescriber.com)

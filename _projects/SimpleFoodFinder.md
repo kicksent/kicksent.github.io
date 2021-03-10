@@ -4,10 +4,10 @@ author_profile: true
 categories: projects
 
 gallery:
-  - url: https://github.com/kicksent/my_rlbot
-    image_path: /assets/img/octane2k.jpg
-    alt: "rocket league bot"
-    title: "RLBOT"
+  - url: https://simplefoodfinder.com
+    image_path: /assets/img/simplefoodfinder.png
+    alt: "simple food finder menu app"
+    title: "SFF"
 ---
 
 ## Simple Food Finder App
