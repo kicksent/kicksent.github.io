@@ -29,7 +29,7 @@ Languages: C#, JS, Python, SQL
 - Automated daily tasks
 
 **HeyTutor & CodeMentor / Mentor & Tutor (Just for fun)**
-`une 2019 - Present`
+`June 2019 - Present`
 Languages: Python, JS, SQL, CSS, HTML
 
 **[ROBAUTO][1] / Software Engineer (Part Time)**  
@@ -123,7 +123,6 @@ Boulder, Colorado GPA: 3.28
 [9]: https://docs.google.com/document/d/1AZTEeZ21hnAx9gO6cChY_GnOEEk_Fii5G-uo3Mdi-OE/edit?usp=sharing
 [10]: https://kicksent.dev/twitchbot/
 [100]: https://www.cgi.com/en
-
 
 <!-- ### Footer
 
