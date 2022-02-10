@@ -69,6 +69,6 @@ feature_row:
 #     title: "octane"
 ---
 
-## A short list of Personal Projects:
+<!-- ## A short list of Personal Projects: -->
 
 {% include feature_row type="center" %}
