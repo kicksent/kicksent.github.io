@@ -3,129 +3,86 @@ layout: cv
 author_profile: true
 ---
 
-**[Link to Live Resume in Google Docs][9]**
+**[Link to Live Resume in Google Docs](https://docs.google.com/document/d/1jRCVE88zzsqOeUQsKdEt4nS45amc47QU/edit?usp=sharing&ouid=111008558434117680830&rtpof=true&sd=true)**
 
-# Nick Trierweiler
+**Nick Trierweiler**
 
-# Software Developer
+Full Stack React Developer
 
-## Technical Skills
+Westminster, CO 80023
 
-**Languages:** Python, C#, JS, C++
-**Operating Systems:** Linux, Windows, OSX  
-**Testing Frameworks:** [Pytest][19]  
-**Coursework:** Data structures, Algorithms, Data Science, Operating Systems, Principles of Programming Languages, OpenGL(C), GIS, Computer Graphics, Databases(SQL)
+720.219.6629 |[siroccomask@gmail.com](mailto:siroccomask@gmail.com)
 
-## Professional Experience
+My websites:[kicksent.dev](http://kicksent.dev) \| [simplefoodfinder.com](http://simplefoodfinder.com) \| [comfortniche.com](http://comfortniche.com) \| [lifescriber.com](http://lifescriber.com)
 
-**CGI / Devops & Software Engineer (Full Time)**
-`April 2019 - Present`
-**Greenwood Village, Colorado**
-Languages: C#, JS, Python, SQL
+# Education
 
-- Managed CI/CD pipeline
-- Site availability
-- ASP.NET MVC Web Application Development
-- Automated daily tasks
+## University of Colorado, Boulder*- Bachelor of Computer Science*
 
-**HeyTutor & CodeMentor / Mentor & Tutor (Just for fun)**
-`June 2019 - Present`
-Languages: Python, JS, SQL, CSS, HTML
+2018 Graduate
 
-**[ROBAUTO][1] / Software Engineer (Part Time)**  
-`February 2019 - April 2019`
-**Boulder, Colorado**
-Languages: JS, Python, Processing
+# Work Experience
 
-- Prototyping products in [processing][6]
-- WordPress site optimization
-- Serial buffers, image processing, arduino projects
-- Presenting product to investors
-- Sendgrid API automation
+## CGI Federal, Full Remote*-** React Developer **- Front End - Full time*
 
-**[Buffalo Academy][2] / Computer Science Tutor**  
-`October 2017 - June 2018`
-**Remote tutor**
+January 2021 -PRESENT (40 Hours/Week)
 
-- Tutoring for Algorithms/Computer Graphics Students at CU Boulder
-- Weekly meetings with students to help with homework sets
-- Prepared lessons based on homework sets to help students
-- New students acquired by referral from satisfied students
+- Feature development coordinating with UI/UX and BE team
+- Implementing feature work within 2 week sprints
+- Writing tests for features using jest (90% code coverage)
+- Integrate data analytics solution for link clicks, redirects, session end, and other inter-component clicks/keypresses
+- Creative solutions for using React alongside existing legacy .NET codebases
+- Develop with 508 compliance in mind for screen readers
+- Bi-weekly sprint demo of feature work and fixes
+- Working with other teams (PM, UI/UX, back-end) to track and estimate work, sync efforts, and deploy together for internal and client demos
+- Branching, merging, deployment, code checkin, and code reviews in github
 
-**[NCAR][3] / Systems Administrator Assistant**  
-`June 2015 - Oct 2016`
-**Mesa Lab Boulder, Colorado**
+## CGI Inc., Greenwood Village, CO*- Software Developer / DevOps - Full time*
 
-- Customer facing
-- IT problem solving & customer support using ticket system
-- Worked on larger projects with team using AGILE and JIRA
-- DNS cleanup project involving scripting
-- Database queries
+April 2019 - January 2021
 
-## Projects
+- Engineered build/release pipelines using CI/CD in Azure DevOps (VSTS)
+- Managed code deployments for 21+ environments, 50+ servers, and 8 major release branches
+- IIS server troubleshooting, management, and configurations
+- ASP.NET MVC Web Application Development (C#)
+- Agile: 3 week sprints, 7 major release, hotfixes, standup meetings, task prioritization
 
-**Twitch Idle Game / Unity and C# (in progress)**
-Multiplayer game using websockets Client(unity) Server(python)
+## Baiby LLC, Denver, CO*- Full Stack React Developer - Contract*
 
-**Vermin / Unity and C# (in progress)**
-[See here](https://kicksent.dev/projects/vermin/)
+## October 2019 - December 2020
 
-**Automated Cryptocurrency Arbitrage Bot / Python**
+- ## React/DynamoDB/Terraform/AWS + Material UI
+- ## Front end page redesign using material UI and backend using DynamoDB
 
-- Developed a bot for arbitrage exchanges using APIs
-- 200+ trades yielded between 2-8% profit margins
+## HeyTutor, Remote*- Computer Science Tutor*
 
-**[Neural Network that plays Snake game][4] / Python**
+JUNE 2019 - November 2021PRESENT (2 Hours/Week)
 
-- Genetic Algorithms applied to Neural Network to learn snake
+- Tutoring Python but also some HTML, CSS, JS, SQL
+- Helped students and professionals to learn Python for data analytics, data cleaning, web development, gui development, REST, and SQLalchemy
+- Also tutored in college for fun and I still enjoy it!
 
-**[Rocket League Bot][5] / Python (in progress)**
+## Robauto, Longmont, CO*- Software Developer*
 
-- Bot that plays Rocket League by processing [gametick][7] packets including physics and other data to determine controller states
-- 3D coordinate systems, game state manipulation, and rendering
+FEBRUARY 2019 - APRIL 2019
 
-**Multi-threaded DNS Lookup / C**
+- Created prototypes in processing.js for investors while being under time pressure
+- Designed and implemented serial buffer protocol and image processing algorithms for arduino prototypes
 
-- Multithreaded program that pings websites and determines if they are live using mutexes, a shared resource, and pthreads library
+# Additional Experience / Side Hustles
 
-**[Twitch Bot][10] / Javascript**
+- **Giving Up / C#** - A multiplayer platformer shooter game developed in my free time featuring capture the flag, demolition, and free for all game modes. This game is being developed in Unity and uses [Mirror](https://mirror-networking.com/docs/)for networking.
+- **Automated Cryptocurrency Arbitrage Bot / Python** - A bot I developed in college to take advantage of a unique arbitrage opportunity discovered while trading cryptocurrency online. Leveraged API’s to gather data and report back with trades which should be executed. At the peak, the bot arbitraged trades up to $500 with up to 8% returns.
+- **Krystal Klean** - <https://www.krystalklean.com/> Site optimization and redesign for wordpress site. Reduced image sizes, removed unnecessary js code libraries, changed assets, etc.
 
-- Simple twitch chat bot using [tmi.js][8] module
-- Enhances streamer viewer interaction allowing players to join a list to play with streamer with chat commands
+# Skills
 
-**Movie Tree / C++**
+- Experienced with developing, testing, and deploying code within a professional setting
+- Fast learner, team player, and a driven independent worker
+- Communication skills, attention to detail, strong sense of ownership
+- Ability to work independently, good oral and written communication skills, professional attitude
+- Desire to build interesting functionality and the ability to break down complex problems
 
-- An implementation of red black self balancing trees
-- Analytics about tree instance are readily found for purposes of optimization of searches and testing of tree structure
+# Tools and Languages
 
-**Shakespearean Sonnet Writer**
-
-- using data from Shakespeare's 154 sonnets construct a new sonnet using markov chains and NLTK
-
-ㅡ
-
-## Education
-
-**University of Colorado Boulder / B.A. Computer Science**  
-`Fall 2014 - Summer 2018`
-Boulder, Colorado GPA: 3.28
-
-**Aims Community College / A.A.S. Air Traffic Control Specialist**
-
-[1]: https://www.robauto.co/
-[2]: https://www.buffacademy.com/
-[3]: https://ncar.ucar.edu/
-[4]: https://github.com/kicksent/SnakePythonP5NeuralNet
-[5]: https://kicksent.dev/rocketleaguebot/
-[6]: https://https://processing.org
-[7]: https://github.com/RLBot/RLBotPythonExample/wiki/Input-and-Output-Data
-[8]: https://docs.tmijs.org/
-[9]: https://docs.google.com/document/d/1AZTEeZ21hnAx9gO6cChY_GnOEEk_Fii5G-uo3Mdi-OE/edit?usp=sharing
-[10]: https://kicksent.dev/twitchbot/
-[100]: https://www.cgi.com/en
-
-<!-- ### Footer
-
-Last updated: March 2019 -->
-
----
+- JavaScript, React, Python, C++, Postgres, MySQL, Node.js, Express, MongoDB, MongoDB Atlas, DynamoDB, Agile, Git, VSTS, Version Control, Linux, Ubuntu, CentOS, AWS, Heroku, Netlify, Docker, REST, Websockets, Test Driven Development, Visual Studio Code, VMware, VirtualBox, Android Studio, XCode, Jekyll, Next.js, Processing.js, Unity, Asp.Net MVC, C#, HTML, CSS, JQuery, Ruby, dotnet test, Pytest
