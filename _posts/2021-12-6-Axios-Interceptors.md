@@ -2,9 +2,10 @@
 
 ## What are Interceptors?
 
-They are a middleware that allows us to run some code before and/or after every request
+They are a middleware that allows us to run some code before a request made, or after every request.
 
-Example problem:
+### Example problem:
+
 Let's say we are making a request that requires a token with an expiration attached to it. Perhaps this is a user token and they click a link to look at an authenticated page after being away for a few minutes.
 
 There are two solutions
@@ -12,6 +13,8 @@ There are two solutions
 1. Before making the original request, we can use our interceptor to check the expiration of the token. If it is expired then we can refresh the token using another request, and then once it is refreshed, then we will make our original request using the newly refreshed token. This ensures that our request will never fail due to having an expired token.
 
 2. After making the request, if the request fails because the token is expired, we can use ourt interceptor to make a request to refresh the token, and then simply make the request again with this newly refreshed token. This means that sometimes our requests will fail but it's nearly the same result as solution #1
+
+Interceptors can be used for other things too..
 
 ## Here's what the basic code sample looks like for interceptors
 
@@ -36,6 +39,8 @@ axios.interceptors.response.use(response => {
     return Promise.reject(error);
   });
 ```
+
+## Using axios interceptors with nock for testing using rtl(react-testing-library)
 
 Now if you want to really implement this in a project and be able to test it. You want to create an instance of axios to use for making requests.
 

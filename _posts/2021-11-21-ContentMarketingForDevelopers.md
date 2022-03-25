@@ -34,11 +34,13 @@ Here are some ideas for blog posts:
 
 - A design pattern that made your code cleaner
 - A playlist you enjoy listening to while coding
-- A keyboard that you really like using
+- A keyboard that you like
 - An online IDE that allows you to code from anywhere
 - Things you have learned as a new hire developer
 - Things you have learned as a mid level developer
 - How to get the most out of meetings as a developer
+- How to have less meetings
+- What to do during meeting to be effective
   ...
 
 <!-- ### The passion problem

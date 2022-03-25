@@ -3,13 +3,15 @@ layout: posts
 title: The great withdrawal
 ---
 
+# The great withdrawal
+
 <!-- PROMISE of value -->
 
 At the end of this post, you will know why you should withdraw your cryptocurrency from exchanges.
 
-This morning I read this [article](https://blog.nano.org/why-you-should-take-your-nano-off-exchanges-for-yourself-the-network-and-nanos-value-b1890b01136c) about nano. (Nano is a currency I have owned since 2017 and the community on reddit is nice to I read the subreddit from time to time to learn.) The article has some good points about why to withdraw nano from exchanges. However, these arguments can be made for **any cryptocurrency**. But that's not what I want to talk about today.
+This morning I read this [article](https://blog.nano.org/why-you-should-take-your-nano-off-exchanges-for-yourself-the-network-and-nanos-value-b1890b01136c) about nano($XNO). The article has some good points about why to withdraw nano from exchanges. However, these arguments can be made for **any cryptocurrency**. But that's not what I want to talk about today.
 
-The main point I want you to think about is the following:
+The main point I want to focus on today is this:
 
 ## Withdraw your cryptocurrencies from exchanges!
 
