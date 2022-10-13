@@ -1,0 +1,32 @@
+* {
+	background-color: gray
+}
+
+.navbar {
+	height: 40vh;
+}
+.navbar svg{
+	height: 40vh;
+}
+.hero {
+	min-height: 500px;
+	height: calc(60vh - 8px);
+}
+
+.main {
+	color: #ccc;
+}
+
+.top {
+	height: 100%;
+	color: #000;
+	background: #ccc;
+}
+
+.container {
+	display: flex;
+}
+
+.item {
+	display: flex;
+}
