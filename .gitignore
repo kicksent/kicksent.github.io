@@ -5,6 +5,7 @@
 .DS_Store
 .jekyll-metadata
 .sass-cache
+.jekyll-cache
 _asset_bundler_cache
 _site
 codekit-config.json
@@ -13,3 +14,14 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 vendor
+
+# Development directories
+hack/
+thoughts/
+.claude/
+
+# Compressed data files
+*.gz
+
+# Test/example directories
+test/
